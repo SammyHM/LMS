@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <!-- Práctica de RSS completa -->
+    <!-- Samuel Luis Hidalgo Martin -->
+    <!-- 1º DAW B -->
+    <channel>
+        <title>Re-open EU</title>
+        <link>https://reopen.europa.eu/es/</link>
+        <description>Reabrir la UE proporciona información sobre los viajes y las medidas sanitarias en la UE y los países asociados a Schengen (Islandia, Liechtenstein, Noruega y Suiza) durante la pandemia de COVID-19</description>
+        <image>
+            <url>https://reopen.europa.eu/static/weekly-map.png?c21ffb</url>
+            <title>Re-open EU</title>
+            <link>https://reopen.europa.eu/es/</link>
+        </image>
+        <copyright>2022 All rights reserved.</copyright>
+        <webMaster>slhidalgo218@ieszaidinvergeles.org (Samuel Luis Hidalgo Martin)</webMaster>
+        <pubDate>Thu, 17 Mar 2022 16:30:26 +0000</pubDate>
+        <item>
+            <title>Enfoque coordinado revisado</title>
+            <link>https://www.consilium.europa.eu/en/press/press-releases/2022/01/25/covid-19-council-adopts-new-person-based-recommendation-on-free-movement-restrictions/</link>
+            <description>COVID-19: Council adopts a revised recommendation on measures affecting free movement, based on the individual situation of persons and no longer on the region of origin</description>
+            <enclosure url="https://www.consilium.europa.eu/media/50345/2106-covid19-measures-on-travel-within-the-eu-thumb-01.jpg" length="5000" type="image/jpg"/>
+            <guid isPermaLink="false">https://www.consilium.europa.eu/en/press/press-releases/2022/01/25/covid-19-council-adopts-new-person-based-recommendation-on-free-movement-restrictions/</guid>
+        </item>
+        <item>
+            <title>Restriccion temporal de los viajes</title>
+            <link>https://www.consilium.europa.eu/en/policies/coronavirus/covid-19-travel-into-the-eu/</link>
+            <description>El 22 de febrero de 2022, el Consejo adoptó una Recomendación actualizada sobre la restricción temporal de los viajes no esenciales a la UE. </description>
+            <enclosure url="https://www.consilium.europa.eu/media/50350/thumbnail-covid-19-travel-restrictions-for-non-eu-countries.png" length="5000" type="image/png"/>
+            <guid isPermaLink="false">https://www.consilium.europa.eu/en/policies/coronavirus/covid-19-travel-into-the-eu/</guid>
+        </item>
+        <item>
+            <title>Certificado digital</title>
+            <link>https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en</link>
+            <description>Nuevas normas sobre la validez del certificado COVID digital de la UE y la coordinación de la seguridad de los viajes en la UE</description>
+            <enclosure url="https://ec.europa.eu/info/sites/default/files/p051292-556558_0.jpg" length="5000" type="image/jpg"/>
+            <guid isPermaLink="false">https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en</guid>
+        </item>
+        <item>
+            <title>Investigacion y vacunas</title>
+            <link>https://www.consilium.europa.eu/en/policies/coronavirus/covid-19-research-and-vaccines/</link>
+            <description>El desarrollo y la distribución de una vacuna eficaz y segura contra la COVID-19 constituye una solución duradera y la piedra angular de la respuesta de la UE a la pandemia de COVID-19.</description>
+            <enclosure url="https://newsroom.consilium.europa.eu/embed/222923" length="5000" type="image/jpg"/>
+            <guid isPermaLink="false">https://www.consilium.europa.eu/en/policies/coronavirus/covid-19-research-and-vaccines/</guid>
+        </item>
+        <item>
+            <title>Recomendaciones</title>
+            <link>https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020H0912</link>
+            <description>RECOMENDACIÓN (UE) 2020/912 DEL CONSEJO de 30 de junio de 2020</description>
+            <enclosure url="https://eur-lex.europa.eu/revamp/images/eurlex.svg" length="5000" type="image/svg"/>
+            <guid isPermaLink="false">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020H0912</guid>
+        </item>
+    </channel>
+</rss>
