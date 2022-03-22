@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <!-- Práctica de RSS completa -->
     <!-- Samuel Luis Hidalgo Martin -->
     <!-- 1º DAW B -->
@@ -26,7 +26,7 @@
             <title>Restriccion temporal de los viajes</title>
             <link>https://www.consilium.europa.eu/es/policies/coronavirus/covid-19-travel-into-the-eu/</link>
             <description>El 22 de febrero de 2022, el Consejo adoptó una Recomendación actualizada sobre la restricción temporal de los viajes no esenciales a la UE. </description>
-            <enclosure url="https://www.consilium.europa.eu/media/50350/thumbnail-covid-19-travel-restrictions-for-non-eu-countries.png" length="5000" type="image/png"/>
+            <media:thumbnail url="https://www.consilium.europa.eu/media/50350/thumbnail-covid-19-travel-restrictions-for-non-eu-countries.png" height="75" width="75"/>
             <guid isPermaLink="false">https://www.consilium.europa.eu/es/policies/coronavirus/covid-19-travel-into-the-eu/</guid>
         </item>
         <item>
